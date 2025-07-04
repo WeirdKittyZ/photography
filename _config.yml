@@ -12,8 +12,7 @@ share: true
 # Owner/author information
 owner:
   name:   Zi's Photo Journal
-  avatar: avatar.png
-  favicon: favicon.ico
+  avatar: ""
   info: photography website template
 
 # Settings for comments helper

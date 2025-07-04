@@ -1,19 +1,20 @@
 # Site settings
-title: Zi's Photo Journal
-email: ""
+title: PHOTORAMA
+email: "zyjzjq99@sina.com"
 description: "Photo Journal"
 url: "https://weirdkittyz.github.io"
 baseurl: "/photography"
 instagram_username: "z._1896528"
 github_username: "WeirdKittyZ"
-# email_shortname: "zyjzjq99@sina.com"
-# share: true
+discus_shortname: ""
+share: true
 
 # Owner/author information
 owner:
-  name:   Zi's Photo Journal
-  avatar: "logo.png"
-  info: photography website template
+  name:   photorama
+  avatar: avatar.png
+  favicon: icon.ico
+  info: photography website
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -22,16 +23,16 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
+  provider : false
   disqus :
-    short_name : "zyjzjq99@sina.com"
+    short_name : ""
 
 # Internal nav
 nav:
   - GALLERY: "https://weirdkittyz.github.io/photography/gallery/"  
   - JOURNAL: "https://weirdkittyz.github.io/photography/journal/"
   - ABOUT: "https://weirdkittyz.github.io/photography/about/"
-
+  
 # All translation keys
 translations:
  # 404.html

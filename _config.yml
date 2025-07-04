@@ -13,7 +13,7 @@ share: true
 owner:
   name:   Photo Journal
   avatar: avatar.png
-  favicon: icon.ico
+  favicon: favicon.ico
   info: photography website
 
 # Settings for comments helper

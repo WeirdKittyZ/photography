@@ -4,14 +4,14 @@ email: ""
 description: "Photo Journal"
 url: "https://weirdkittyz.github.io"
 baseurl: "/photography"
-instagram_username: ""
-github_username: "https://github.com/WeirdKittyZ"
-discus_shortname: ""
+instagram_username: "z._1896528"
+github_username: "WeirdKittyZ"
+discus_shortname: "zyjzjq99@sina.com"
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Zi's Photo Journal
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template

@@ -4,12 +4,8 @@ email: ""
 description: "Photo Journal"
 url: "https://weirdkittyz.github.io"
 baseurl: "/photography"
-facebook_username: ""
-twitter_username: ""
 instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
+github_username: "https://github.com/WeirdKittyZ"
 discus_shortname: ""
 share: true
 

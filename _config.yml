@@ -1,5 +1,5 @@
 # Site settings
-title: Photo Journal
+title: YZi Photo Journal
 email: "zyjzjq99@sina.com"
 description: "Photo Journal"
 url: "https://weirdkittyz.github.io"
@@ -14,7 +14,7 @@ owner:
   name: YZi Photo Journal
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website
+  info: YZi Photo Journal photography website
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
